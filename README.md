@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/mr_nitesh14" target="blank"><img src="https://img.shields.io/twitter/follow/mr_nitesh14?logo=twitter&style=for-the-badge" alt="mr_nitesh14" /></a> </p>
 
-- 🔭 I’m currently working on [ChatApp](https://github.com/mrNitesh14/ChatApp)
 
 - 🌱 I’m currently learning **Flutter**
 
