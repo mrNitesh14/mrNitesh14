@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **niteshbrathod1432003@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q38_XnbuxHHbt3T0-OFppBL9uUyvRgxH/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rq9iVS2BGo2PQfSP6_lok0aBOLon_5wJ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
